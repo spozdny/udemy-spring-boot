@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore Maven or build output directories
+/target/
